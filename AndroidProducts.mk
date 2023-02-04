@@ -17,7 +17,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_a60q.
+     $(LOCAL_DIR)/omni_a60q.mk
 	 
 COMMON_LUNCH_CHOICES := \
 omni_a60q-userdebug \
